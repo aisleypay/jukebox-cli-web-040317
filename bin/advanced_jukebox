@@ -4,13 +4,13 @@ require_relative "../lib/advanced_jukebox"
 
 
 my_songs = {
-"Go Go GO" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/01.mp3',
-"LiberTeens" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/02.mp3',
-"Hamburg" =>  '< path to this directory >/jukebox-cli/audio/Emerald-Park/03.mp3',
-"Guiding Light" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/04.mp3',
-"Wolf" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/05.mp3',
-"Blue" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/07.mp3'
+"Go Go GO" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli-web-040317/audio/Emerald-Park/01.mp3',
+"LiberTeens" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/02.mp3',
+"Hamburg" =>  '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/03.mp3',
+"Guiding Light" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/04.mp3',
+"Wolf" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/05.mp3',
+"Blue" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/06.mp3',
+"Graduation Failed" => '/Users/nothinlkepaisley/.atom/.learn-ide/home/paisleysingh-34022/code/jukebox-cli/audio/Emerald-Park/07.mp3'
 }
 
 run(my_songs)
